@@ -1,0 +1,10 @@
+body {
+    background-color:rgb(210, 171, 219);
+}
+
+h1 {
+    border-color: 2px solid darkolivegreen;
+    border-radius: 5px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
